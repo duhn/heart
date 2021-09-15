@@ -18,6 +18,8 @@
     <modules>
         <module>commons</module>
         <module>security</module>
+        <module>test</module>
+        <module>gateway</module>
     </modules>
 
 
@@ -41,6 +43,8 @@
         <gson.version>2.8.5</gson.version>
         <lombok.version>1.18.4</lombok.version>
         <swagger.version>2.7.0</swagger.version>
+        <swagger.fox.version>3.0.0</swagger.fox.version>
+        <swagger.core.version>1.6.2</swagger.core.version>
     </properties>
 
     <dependencies>

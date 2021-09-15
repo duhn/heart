@@ -1,3 +1,7 @@
 # Tomcat
 server:
   port: 8001 # 端口号
+
+spring:
+  application:
+    name: system
